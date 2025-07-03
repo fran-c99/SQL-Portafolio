@@ -1,4 +1,4 @@
-# SQL-Queries
+# SQL
 
 ## Introduction
 SQL is a programming language used to create, interact with and request information from a database. With it we can search through millions of datapoints to extract relevant rows of data using one query. 
