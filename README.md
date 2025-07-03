@@ -8,4 +8,6 @@ In a security related field, we use SQL filtering tools to find data to support 
 ## Exercises
 
 ### Exercise 1: SQL Filters
-I investigated security issues to help keep a system secure, discovering potential security issues that involve login attempts and employee machines.
+I investigated security issues to help keep a system secure, discovering potential security issues that involve login attempts and employee machines. 
+
+The file is attached to the Repository.
